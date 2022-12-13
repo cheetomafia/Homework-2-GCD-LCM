@@ -1,4 +1,4 @@
-# Homework-2-GCD-LCD
+# Homework-2-GCD-LCM
 Homework 2
 ===
 For this homework you will be computing:
